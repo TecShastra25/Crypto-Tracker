@@ -1,7 +1,8 @@
 # Crypto Hunter - MERN Stack Web App
 
 
-![Screenshot (61)](https://github.com/TecShastra25/crypto_hunting/assets/65217388/41db7772-41b5-41b8-9ca2-eef255853e6e)
+![Screenshot (61)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/41db7772-41b5-41b8-9ca2-eef255853e6e)
+
 
   **Crypto Hunter is a full-stack web application for tracking and analyzing cryptocurrency data. This project is built using the MERN (MongoDB, Express.js, React, Node.js) stack.**
 
@@ -17,13 +18,13 @@
 ## Screenshots
 
 
-![Screenshot (62)](https://github.com/TecShastra25/crypto_hunting/assets/65217388/437ea53e-3a40-4bf8-9918-1e4983a90b64)
+![Screenshot (62)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/437ea53e-3a40-4bf8-9918-1e4983a90b64)
 
-![Screenshot (63)](https://github.com/TecShastra25/crypto_hunting/assets/65217388/535550ec-edfd-4a80-9cf3-81b9109d1075)
+![Screenshot (63)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/535550ec-edfd-4a80-9cf3-81b9109d1075)
 
-![Screenshot (64)](https://github.com/TecShastra25/crypto_hunting/assets/65217388/81fbaff8-1825-482a-bafb-ad37927160e1)
+![Screenshot (64)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/81fbaff8-1825-482a-bafb-ad37927160e1)
 
-![Screenshot (65)](https://github.com/TecShastra25/crypto_hunting/assets/65217388/9541ce69-bac2-45ef-929b-e266eff8cd4b)
+![Screenshot (65)](https://github.com/kumarAmar882/crypto_hunting/assets/65217388/9541ce69-bac2-45ef-929b-e266eff8cd4b)
 
 
 
